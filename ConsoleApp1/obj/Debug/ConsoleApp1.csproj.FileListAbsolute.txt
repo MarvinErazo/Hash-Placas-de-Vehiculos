@@ -5,3 +5,10 @@ C:\Users\Marvin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.cspro
 C:\Users\Marvin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Marvin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Marvin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ERAZO\Desktop\4to\Estrcutura Datos\Hash\Hash-Placas-de-Vehiculos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ERAZO\Desktop\4to\Estrcutura Datos\Hash\Hash-Placas-de-Vehiculos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ERAZO\Desktop\4to\Estrcutura Datos\Hash\Hash-Placas-de-Vehiculos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ERAZO\Desktop\4to\Estrcutura Datos\Hash\Hash-Placas-de-Vehiculos\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ERAZO\Desktop\4to\Estrcutura Datos\Hash\Hash-Placas-de-Vehiculos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ERAZO\Desktop\4to\Estrcutura Datos\Hash\Hash-Placas-de-Vehiculos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ERAZO\Desktop\4to\Estrcutura Datos\Hash\Hash-Placas-de-Vehiculos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

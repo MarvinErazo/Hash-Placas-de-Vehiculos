@@ -53,38 +53,50 @@ namespace ConsoleApp1
             do
             {
                 op = Menu();
+                Console.Clear();
                 if (op == 1)
                 {
+                    Console.WriteLine("INGRESO DE NUEVO VEHICULO\n");
                     obj = new DatosV();
                     Console.Write("Placa: ");
                     clave = Console.ReadLine();
+                    
                     try
                     {
                         placa.Add(clave, obj);
                         obj.Ingresar();
+                        Console.WriteLine("\nVehiculo agregado exitosamente..");
+                        Console.ReadKey();
                     }
                     catch
                     {
                         Console.WriteLine("La placa {0} ya esta en uso",clave);
+                        Console.ReadKey();
 
                     }
 
                 }
                 if (op == 2)   
                 {
+                    Console.WriteLine("BUSQUEDA DE VEHICULO\n");
                     Console.Write("Placa: ");
                     string auxP = Console.ReadLine();
                     if (placa.Contains(auxP))
                     {
+                        Console.WriteLine("Datos---------\n");
                         aux = (DatosV)placa[auxP];
                         Console.WriteLine("Placa: " + auxP);
                         aux.Mostrar();
+                        Console.ReadKey();
                     }
                     else
                     {
                         Console.WriteLine("Esta placa no existe");
+                        Console.ReadKey();
                     }
+                    
                 }
+                Console.Clear();
             } while (op!=3);
         }
         static int Menu()
